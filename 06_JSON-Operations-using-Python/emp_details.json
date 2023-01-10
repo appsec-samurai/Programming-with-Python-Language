@@ -1,0 +1,20 @@
+{
+  "emp_details": [
+    {
+      "name": "Kedar",
+      "email": "kedar@gmail.com",
+      "job_profile": "Application Security Engineer"
+    },
+    {
+      "name": "Sayali",
+      "email": "sayali@gmail.com",
+      "job_profile": "QA Engineer"
+    },
+    {
+      "name": "Amar",
+      "email": "amar@gmail.com",
+      "job_profile": "Application Security Analyst"
+    }
+
+  ]
+}
